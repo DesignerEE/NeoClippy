@@ -1,0 +1,9 @@
+flask
+transformers
+torch
+pdfplumber
+docx
+markdown
+networkx
+matplotlib
+argparse
